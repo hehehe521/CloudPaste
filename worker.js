@@ -4592,10 +4592,10 @@ createApp({
   template: \`
   <div class="container">
 
-  <a href="https://github.com/ling-drag0n/CloudPaste" 
+  <a href="https://8962500.xyz" 
      target="_blank" 
      class="github-link" 
-     title="Visit GitHub"
+     title="MyHome"
      v-html="githubIconSvg.__html">
   </a>
 
@@ -6764,7 +6764,7 @@ const html = `<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CloudPaste - 在线剪贴板</title>
+    <title>He's 在线存储</title>
     <link rel="icon" href="data:image/x-icon;base64,${faviconBase64}" type="image/x-icon">
     <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/3.2.31/vue.global.prod.min.js"></script>
     <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/marked/4.0.2/marked.min.js"></script>
@@ -6781,10 +6781,10 @@ const html = `<!DOCTYPE html>
 </head>
 <body>
     <div id="app">
-       <a href="https://github.com/ling-drag0n/CloudPaste" 
+       <a href="https://8962500.xyz" 
             target="_blank" 
             class="github-link" 
-            title="Visit GitHub"
+            title="MyHome"
             v-html="githubIconSvg.__html">
         </a>
     </div>
